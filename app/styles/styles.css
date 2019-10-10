@@ -1,4 +1,8 @@
 .pics {
-display: block;
-border: 50px solid black;
+
+  display: block;
+}
+
+img {
+  border: 50px solid #000000;
 }
